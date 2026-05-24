@@ -101,8 +101,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="github-readme-stats-two-ochre-20.vercel.app/api?username=dhruvchhabra29&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
-  <img src="github-readme-stats-two-ochre-20.vercel.app/api/top-langs/?username=dhruvchhabra29&layout=compact&theme=github_dark&hide_border=false&border_radius=10&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages" />
+  <img src="project-ocsb0.vercel.app/api?username=dhruvchhabra29&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
+  <img src="project-ocsb0.vercel.app/api/top-langs/?username=dhruvchhabra29&layout=compact&theme=github_dark&hide_border=false&border_radius=10&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
