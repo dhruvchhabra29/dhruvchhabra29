@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" width="250" src="https://i.imgflip.com/65efzo.gif" alt="Coding" />
+<img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThpZ21uYnJ5MW9pbXlpYmlqZnFxaDVkNWl1aDBrbWk2NDF5MXVnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pa0dwxL1PinsDeIaQB/giphy.gif" alt="Coding" />
 
 - 🔭 I'm currently working as **Software Engineer**
 - 🌱 I'm currently learning **System Design, Rust, and Cloud Architecture**
@@ -101,8 +101,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-two-ochre-20.vercel.app/api?username=dhruvchhabra29&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-two-ochre-20.vercel.app/api/top-langs/?username=dhruvchhabra29&layout=compact&theme=github_dark&hide_border=false&border_radius=10&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stat-woad.vercel.app/api?username=dhruvchhabra29&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stat-woad.vercel.app/api/top-langs/?username=dhruvchhabra29&layout=compact&theme=github_dark&hide_border=false&border_radius=10&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
