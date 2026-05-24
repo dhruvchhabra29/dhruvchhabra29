@@ -5,9 +5,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" alt="Coding GIF" />
 </div>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=0A0A0A&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=FFD700&logo=github" alt="GitHub Stars" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhruvchhabra29.dhruvchhabra29&" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dhruvchhabra29?label=Followers&style=for-the-badge&color=0A0A0A&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/dhruvchhabra29?label=Stars&style=for-the-badge&color=FFD700&logo=github" alt="GitHub Stars" />
 </div>
 👨‍💻 About Me
 <img align="right" width="250" src="https://i.imgflip.com/65efzo.gif" alt="Coding" />
@@ -85,20 +85,20 @@ DevOps & Tools
 </div>
 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=false&border_radius=10&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvchhabra29&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvchhabra29&layout=compact&theme=github_dark&hide_border=false&border_radius=10&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&locale=en&mode=daily&theme=github-dark-blue&hide_border=false&border_radius=10&order=3&fire=FF4500" height="200" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dhruvchhabra29&locale=en&mode=daily&theme=github-dark-blue&hide_border=false&border_radius=10&order=3&fire=FF4500" height="200" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7" height="180" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruvchhabra29&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7" height="180" alt="GitHub Trophies" />
 </div>
 🔥 Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvchhabra29/dhruvchhabra29/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvchhabra29/dhruvchhabra29/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/dhruvchhabra29/dhruvchhabra29/output/pacman-contribution-graph.svg">
 </picture>
 🌐 Connect With Me
 <div align="left">
@@ -129,7 +129,7 @@ DevOps & Tools
 </div>
 🐍 Watch My Contribution Snake Eat My Commits
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/dhruvchhabra29/dhruvchhabra29/output/snake.svg" alt="Snake animation" />
 </div>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.&author=Cory+House" alt="Dev Quote" />
