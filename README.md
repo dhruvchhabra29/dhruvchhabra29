@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+%5BYour+Name%5D;Full-Stack+Developer;Open+Source+Contributor;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhruv+Chhabra;Full-Stack+Developer;Open+Source+Contributor;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" alt="Coding GIF" />
@@ -11,11 +11,11 @@
 </div>
 👨‍💻 About Me
 <img align="right" width="250" src="https://i.imgflip.com/65efzo.gif" alt="Coding" />
-🔭 I'm currently working as Software Engineer @ [Company]
+🔭 I'm currently working as Software Engineer
 🌱 I'm currently learning System Design, Rust, and Cloud Architecture
 👯 I'm looking to collaborate on Open Source Projects & Innovative Web Apps
 💬 Ask me about React, Node.js, TypeScript, Python, DevOps
-📫 How to reach me: your.email@example.com
+📫 How to reach me: dhruvchhabra29@gmail.com
 ⚡ Fun fact: I debug with console.log and I'm not ashamed 😄
 🎯 Goal for 2026: Contribute to 50+ open source projects
 🛠️ Tech Stack
@@ -34,8 +34,6 @@ Frontend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />
 </div>
 Backend
 <div align="left">
@@ -85,8 +83,8 @@ DevOps & Tools
 </div>
 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvchhabra29&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvchhabra29&layout=compact&theme=github_dark&hide_border=false&border_radius=10&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhruvchhabra29&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhruvchhabra29&layout=compact&theme=github_dark&hide_border=false&border_radius=10&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dhruvchhabra29&locale=en&mode=daily&theme=github-dark-blue&hide_border=false&border_radius=10&order=3&fire=FF4500" height="200" alt="GitHub Streak" />
@@ -102,28 +100,28 @@ DevOps & Tools
 </picture>
 🌐 Connect With Me
 <div align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/dhruvchhabra29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://twitter.com/dhruvchhabra29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" />
   </a>
-  <a href="https://youtube.com/@yourchannel" target="_blank">
+  <a href="https://youtube.com/@dhruvchhabra29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
   </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
+  <a href="https://instagram.com/dhruvchhabra29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/yourinvite" target="_blank">
+  <a href="https://discord.gg/dhruvchhabra29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
-  <a href="https://twitch.tv/yourhandle" target="_blank">
+  <a href="https://twitch.tv/dhruvchhabra29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
   </a>
-  <a href="https://dev.to/yourhandle" target="_blank">
+  <a href="https://dev.to/dhruvchhabra29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Dev.to" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:dhruvchhabra29@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
 </div>
