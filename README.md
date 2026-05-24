@@ -16,13 +16,13 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThpZ21uYnJ5MW9pbXlpYmlqZnFxaDVkNWl1aDBrbWk2NDF5MXVnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pa0dwxL1PinsDeIaQB/giphy.gif" alt="Coding" style="margin-left: 20px;"/>
+<img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThpZ21uYnJ5MW9pbXlpYmlqZnFxaDVkNWl1aDBrbWk2NDF5MXVnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pa0dwxL1PinsDeIaQB/giphy.gif" alt="Coding" style="margin-left: 20px; margin-bottom: 20px;"/>
 
 - 🔭 I'm currently working as **Software Engineer**
 - 🌱 I'm currently learning **System Design, Rust, and Cloud Architecture**
 - 👯 I'm looking to collaborate on **Open Source Projects & Innovative Web Apps**
 - 💬 Ask me about **React, Node.js, TypeScript, Python, DevOps**
-- 📫 How to reach me: **dhruvchhabra29@gmail.com**
+- 📫 How to reach me: **dhruvchhabra29@hotmail.com**
 - ⚡ Fun fact: **I debug with console.log and I'm not ashamed** 😄
 - 🎯 Goal for 2026: **Contribute to 50+ open source projects**
 
@@ -128,7 +128,7 @@
 ### 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/dhruvchhabra29" target="_blank">
+  <a href="https://linkedin.com/in/dhruv-chhabra28" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/dhruvchhabra29" target="_blank">
@@ -137,7 +137,7 @@
   <a href="https://youtube.com/@dhruvchhabra29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
   </a>
-  <a href="https://instagram.com/dhruvchhabra29" target="_blank">
+  <a href="https://instagram.com/dhruv_chhabra29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
   <a href="https://discord.gg/dhruvchhabra29" target="_blank">
@@ -149,8 +149,8 @@
   <a href="https://dev.to/dhruvchhabra29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Dev.to" />
   </a>
-  <a href="mailto:dhruvchhabra29@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  <a href="mailto:dhruvchhabra29@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Hotmail&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Hotmail" />
   </a>
 </div>
 
