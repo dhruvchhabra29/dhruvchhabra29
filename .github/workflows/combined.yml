@@ -1,0 +1,45 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Checkout output branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          path: output-branch
+        continue-on-error: true
+
+      - name: Prepare combined files
+        run: |
+          mkdir -p deploy
+          if [ -d "output-branch" ]; then
+            cp -r output-branch/* deploy/ 2>/dev/null || true
+          fi
+          cp pacman-contribution-graph*.svg deploy/ 2>/dev/null || true
+          ls -la deploy/
+
+      - name: Push to output branch
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          directory: deploy
+          force: true
