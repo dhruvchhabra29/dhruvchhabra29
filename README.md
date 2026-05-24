@@ -16,15 +16,17 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThpZ21uYnJ5MW9pbXlpYmlqZnFxaDVkNWl1aDBrbWk2NDF5MXVnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pa0dwxL1PinsDeIaQB/giphy.gif" alt="Coding" />
-
-- 🔭 I'm currently working as **Software Engineer**
-- 🌱 I'm currently learning **System Design, Rust, and Cloud Architecture**
-- 👯 I'm looking to collaborate on **Open Source Projects & Innovative Web Apps**
-- 💬 Ask me about **React, Node.js, TypeScript, Python, DevOps**
-- 📫 How to reach me: **dhruvchhabra29@gmail.com**
-- ⚡ Fun fact: **I debug with console.log and I'm not ashamed** 😄
-- 🎯 Goal for 2026: **Contribute to 50+ open source projects**
+<!-- <img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThpZ21uYnJ5MW9pbXlpYmlqZnFxaDVkNWl1aDBrbWk2NDF5MXVnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pa0dwxL1PinsDeIaQB/giphy.gif" alt="Coding" /> -->
+<div align="left">
+  <img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThpZ21uYnJ5MW9pbXlpYmlqZnFxaDVkNWl1aDBrbWk2NDF5MXVnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pa0dwxL1PinsDeIaQB/giphy.gif" alt="Coding" style="margin-left: 20px;" />
+🔭 I'm currently working as Software Engineer
+🌱 I'm currently learning System Design, Rust, and Cloud Architecture
+👯 I'm looking to collaborate on Open Source Projects & Innovative Web Apps
+💬 Ask me about React, Node.js, TypeScript, Python, DevOps
+📫 How to reach me: dhruvchhabra29@gmail.com
+⚡ Fun fact: I debug with console.log and I'm not ashamed 😄
+🎯 Goal for 2026: Contribute to 50+ open source projects
+</div>
 
 ---
 
