@@ -27,20 +27,19 @@ jobs:
           path: output-branch
         continue-on-error: true
 
-      - name: Merge files and push
+      - name: Prepare combined files
         run: |
           mkdir -p deploy
-          # Copy existing files from output branch if it exists
           if [ -d "output-branch" ]; then
             cp -r output-branch/* deploy/ 2>/dev/null || true
           fi
-          # Copy new pacman files (they go to root by default)
           cp pacman-contribution-graph*.svg deploy/ 2>/dev/null || true
+          ls -la deploy/
 
-          cd deploy
-          git init
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Update pacman contribution graph" || exit 0
-          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} output
+      - name: Push to output branch
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          directory: deploy
+          force: true
