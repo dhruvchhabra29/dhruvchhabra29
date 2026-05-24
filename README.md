@@ -158,9 +158,11 @@
 
 ### 🐍 Watch My Contribution Snake Eat My Commits
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dhruvchhabra29/dhruvchhabra29/output/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvchhabra29/dhruvchhabra29/output/github-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvchhabra29/dhruvchhabra29/output/github-snake.svg?v=2">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/dhruvchhabra29/dhruvchhabra29/output/github-snake.svg?v=2">
+</picture>
 
 ---
 
