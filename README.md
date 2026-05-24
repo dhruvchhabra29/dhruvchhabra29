@@ -131,22 +131,22 @@
   <a href="https://linkedin.com/in/dhruv-chhabra28" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/dhruvchhabra29" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" />
+  <a href="https://x.com/dhruv_chhabra29" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X" />
   </a>
-  <a href="https://youtube.com/@dhruvchhabra29" target="_blank">
+  <a href="https://youtube.com/@The_Gamer_Den" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
   </a>
-  <a href="https://instagram.com/dhruv_chhabra29" target="_blank">
+  <a href="https://instagram.com/dhruv_chhabra2907" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/dhruvchhabra29" target="_blank">
+  <a href="https://discord.com/users/dhruv_chhabra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
-  <a href="https://twitch.tv/dhruvchhabra29" target="_blank">
+  <a href="https://twitch.tv/dhruv_chhabra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
   </a>
-  <a href="https://dev.to/dhruvchhabra29" target="_blank">
+  <a href="https://dev.to/dhruv_chhabra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Dev.to" />
   </a>
   <a href="mailto:dhruvchhabra29@hotmail.com" target="_blank">
