@@ -13,6 +13,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create dist directory
+        run: mkdir -p dist && chmod 777 dist
+
       - name: Generate Snake SVGs
         uses: Platane/snk@v3
         with:
@@ -21,14 +24,25 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: List files after snake
+        run: ls -la dist/
+
       - name: Generate Pacman SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: List generated files
-        run: ls -la dist/
+      - name: List files after pacman
+        run: ls -la dist/ || ls -la
+
+      - name: Move pacman files to dist if needed
+        run: |
+          # Pacman might output to root, move to dist if found
+          if [ -f "pacman-contribution-graph.svg" ]; then
+            mv pacman-contribution-graph*.svg dist/ 2>/dev/null || true
+          fi
+          ls -la dist/
 
       - name: Push all SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
