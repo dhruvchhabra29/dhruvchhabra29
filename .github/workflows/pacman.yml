@@ -14,15 +14,33 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
+
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Push SVGs to output branch
+
+      - name: Checkout output branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          path: output-branch
+        continue-on-error: true
+
+      - name: Merge files and push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -B output
+          mkdir -p deploy
+          # Copy existing files from output branch if it exists
+          if [ -d "output-branch" ]; then
+            cp -r output-branch/* deploy/ 2>/dev/null || true
+          fi
+          # Copy new pacman files (they go to root by default)
+          cp pacman-contribution-graph*.svg deploy/ 2>/dev/null || true
+
+          cd deploy
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Update pacman contribution graph" || echo "No changes to commit"
-          git push origin output --force
+          git commit -m "Update pacman contribution graph" || exit 0
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} output

@@ -12,6 +12,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: Platane/snk@v3
         with:
@@ -19,11 +21,28 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00ff00
 
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Checkout output branch
+        uses: actions/checkout@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          ref: output
+          path: output-branch
+        continue-on-error: true
+
+      - name: Merge files and push
+        run: |
+          mkdir -p deploy
+          # Copy existing files from output branch if it exists
+          if [ -d "output-branch" ]; then
+            cp -r output-branch/* deploy/ 2>/dev/null || true
+          fi
+          # Copy new snake files
+          cp dist/*.svg deploy/ 2>/dev/null || true
+
+          cd deploy
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Update snake animation" || exit 0
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} output
