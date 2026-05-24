@@ -12,8 +12,17 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: dhruvchhabra29
-          output_branch: output
-          generate_dark_mode: true
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push SVGs to output branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -B output
+          git add -A
+          git commit -m "Update pacman contribution graph" || echo "No changes to commit"
+          git push origin output --force
