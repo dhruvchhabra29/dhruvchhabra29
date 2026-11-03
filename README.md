@@ -110,7 +110,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=dhruvchhabra29&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7" height="180" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=dhruvchhabra29&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7" height="180" alt="GitHub Trophies" />
 </div>
 
 ---
