@@ -101,8 +101,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stat-woad.vercel.app/api?username=dhruvchhabra29&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stat-woad.vercel.app/api/top-langs/?username=dhruvchhabra29&layout=compact&theme=github_dark&hide_border=false&border_radius=10&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=dhruvchhabra29&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhruvchhabra29&layout=compact&theme=github_dark&hide_border=false&border_radius=10&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -110,7 +110,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvchhabra29&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7" height="180" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=dhruvchhabra29&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7" height="180" alt="GitHub Trophies" />
 </div>
 
 ---
