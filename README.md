@@ -109,9 +109,6 @@
   <img src="https://streak-stats.demolab.com?user=dhruvchhabra29&locale=en&mode=daily&theme=github-dark-blue&hide_border=false&border_radius=10&order=3&fire=FF4500" height="200" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dhruvchhabra29/dhruvchhabra29/main/assets/github-trophy.svg" height="180" alt="GitHub Trophies" />
-</div>
 
 ---
 
