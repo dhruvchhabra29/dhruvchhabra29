@@ -27,7 +27,7 @@ jobs:
           max-cols: 7
           margin-width: 15
           margin-height: 15
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_TOKEN }}
 
       - name: Commit updated trophy
         uses: stefanzweifel/git-auto-commit-action@v5
