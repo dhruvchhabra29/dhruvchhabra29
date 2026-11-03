@@ -1,0 +1,36 @@
+name: Update GitHub Trophies
+
+on:
+  push:
+    paths:
+      - ".github/workflows/update-trophies.yml"
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: dhruvchhabra29
+          file: assets/github-trophy.svg
+          theme: darkhub
+          max-cols: 7
+          margin-width: 15
+          margin-height: 15
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated trophy
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub trophy"
+          file_pattern: assets/github-trophy.svg
